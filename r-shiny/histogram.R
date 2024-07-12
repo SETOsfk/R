@@ -1,10 +1,3 @@
-####################################
-# Data Professor                   #
-# http://youtube.com/dataprofessor #
-# http://github.com/dataprofessor  #
-####################################
-
-# Modified from https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
 library(shiny)
 library(echarts4r)
