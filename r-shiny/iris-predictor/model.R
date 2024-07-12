@@ -1,8 +1,4 @@
-####################################
-# Data Professor                   #
-# http://youtube.com/dataprofessor #
-# http://github.com/dataprofessor  #
-####################################
+
 
 # Importing libraries
 library(RCurl) # for downloading the iris CSV file
