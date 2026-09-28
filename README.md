@@ -14,6 +14,7 @@ open a script in RStudio and run it top to bottom. [Türkçe özet ↓](#türkç
 | `Data Analysis/` | a full analysis cycle: cleaning (`starwars`), exploration, t-test / ANOVA / χ², regression and a decision tree |
 | `Visualize/` | `ggplot2` geometries, lollipop and encircled plots, `plotly`, `echarts4r`, `gganimate`, `gt` tables |
 | `Harvard/` | `dplyr` and `ggplot2` exercises (storms → hurricanes), writing a package and unit tests with `testthat` |
+| `Paket-Yazimi/` | step-by-step guide (Turkish) to writing a first R package with `usethis`, `devtools`, `roxygen2`, `testthat` |
 | `SQL With R/` | creating and querying SQLite databases from R with `RSQLite`, `RODBC` and `RJDBC` (course labs) |
 | `r-shiny/` | small Shiny apps: histogram, BMI calculator, iris species predictor |
 | `Project/classification/` | the 2024 Bordeaux wine classification scripts (feature importance, near-zero variance, ROC) |
